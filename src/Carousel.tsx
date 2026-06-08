@@ -1,4 +1,3 @@
-import React from "react";
 import "./carousel.css";
 
 const images: string[] = [
